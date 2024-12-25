@@ -66,7 +66,7 @@ L<Appendices|Catalyst::Manual::Tutorial::10_Appendices>
 =back
 
 Final code tarballs for each chapter of the tutorial are available at
-L<http://dev.catalystframework.org/repos/Catalyst/trunk/examples/Tutorial/>.
+L<http://dev.catalyst.perl.org/repos/Catalyst/trunk/examples/Tutorial/>.
 
 
 =head1 Detailed Table of Contents
